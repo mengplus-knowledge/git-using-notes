@@ -1,6 +1,6 @@
-# git-SVN
+# GIT-SVN
 
-### git-SVN安装
+
 
 在win平台git-SVN默认是安装的，而linux平台需要手动安装
 
@@ -29,4 +29,16 @@ new\_name可以给导入的项目取个新的名称，也可以不写，默认�
 ```bash
 git svn fetch
 ```
+
+
+
+GIT-SVN 可以使用git轻松的访问SVN仓库，方便git对SVN仓库的兼容，如果你是GIT用户又不得不使用SVN管理工程那么这将是不错的选择。
+
+### GIT对比优势
+
+|   | GIT | SVN |
+| - | --- | --- |
+|   |     |     |
+|   |     |     |
+|   |     |     |
 
